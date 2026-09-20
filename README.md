@@ -1,4 +1,4 @@
-# ErdetDeug
+# ErdetDebug
 
 Erdetspill Debug Menu mod
 
